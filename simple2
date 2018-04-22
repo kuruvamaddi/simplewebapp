@@ -2,7 +2,11 @@ class Simple{
 public static void main(String args[])
 {
 system.out.println ("hello java");
+<<<<<<< HEAD
 
 system.out.println ("hello 3rd from cmd line java");
+=======
+system.out.println ("hello java second line");
+>>>>>>> f37aecde8147ac946cf91db30f9c8f73f94c6d00
 }
 }
